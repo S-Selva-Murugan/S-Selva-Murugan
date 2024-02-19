@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Selva-Murugan, an aspiring developer with a passion for crafting dynamic and user-friendly web applications.
+- 👋 Hi, I’m Selva Murugan, an aspiring developer with a passion for crafting dynamic and user-friendly web applications.
 - 👀 I’m interested in exploring various aspects of software development, including front-end and back-end technologies, database management.
 - 🌱 I’m currently diving deeper into the intricacies of React for front-end development, Express.js for back-end development, MongoDB for database management, and integrating them all together in full-stack applications.
 - 💞️ I’m looking to collaborate on innovative projects that challenge me to expand my skill set and contribute meaningfully to the tech community.
